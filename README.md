@@ -1,6 +1,6 @@
 # License-Plate-Recognition-System
 
-This repository contains two Python scripts for Automatic Number Plate Recognition (ANPR): `ANPR_Image.py` and `ANPR_Video.py`. These scripts utilize YOLO for object detection and EasyOCR for text recognition to identify license plates from images and videos.
+This repository contains two Python scripts for Automatic Number Plate Recognition (ANPR): `anpr_image.py` and `anpr_video.py`. These scripts utilize YOLO for object detection and EasyOCR for text recognition to identify license plates from images and videos.
 
 
 ## Features
