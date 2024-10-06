@@ -17,7 +17,7 @@ The YOLO model has been trained on **25,000+ annotated images** to accurately de
 
 The training results are illustrated in the graphs below:
 
-![Metrics Graph](![Metrics Graph](1_Model%20Training/training_results.png))
+![Metrics Graph](1_Model%20Training/training_results.png)
 
 
 ## Results
